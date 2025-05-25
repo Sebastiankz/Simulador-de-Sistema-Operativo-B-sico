@@ -1,1 +1,3 @@
-# Simulador-de-Sistema-Operativo-B-sico
+# Simulador-de-Sistema-Operativo-Basico
+
+node main.js
